@@ -1,4 +1,4 @@
-# Achoja-Akpovona-
+# betatalk
 
 A social media mobile app that combines features similar to **Facebook, Instagram, TikTok, and Snapchat**, with a focus on:
 
