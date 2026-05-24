@@ -1,8 +1,9 @@
-# betatalk
+# Achoja
 
-A social media mobile app that combines features similar to **Facebook, Instagram, TikTok, and Snapchat**, with a focus on:
+A next-generation social media mobile app featuring:
 
-- Short‑form video and photo content.
-- Stories and live‑streaming.
-- Live "battle" rooms where creators compete (e.g., artists, influencers).
-- Token‑based betting and prediction markets around these battles.
+- Short-form video and photo content
+- Stories and live streaming
+- Live "battle" rooms where creators (artists, influencers) compete
+- Token-based betting and prediction markets for battles
+- NFT-style badges and smart-contract-based revenue sharing
